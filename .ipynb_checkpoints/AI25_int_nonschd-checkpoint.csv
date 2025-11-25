@@ -1,0 +1,11 @@
+Month,Departures,Aircraft_Flown_Hours,Aircraft_Flown_Kilometres,Passengers_Carried,Passenger_Kms_Performed,Available_Seat_Kms,Passenger_Load_Factor,Cargo_Freight,Cargo_Mail,Total_Cargo,Passenger_Tonne_Kms,Freight_Tonne_Kms,Mail_Tonne_Kms,Total_Tonne_Kms,Available_Tonne_Kms,Weight_Load_Factor
+JAN,,,,,,,,,,,,,,,,
+FEB,,,,,,,,,,,,,,,,
+MAR,,,,,,,,,,,,,,,,
+APR,,,,,,,,,,,,,,,,
+MAY,,,,,,,,,,,,,,,,
+JUN,,,,,,,,,,,,,,,,
+JUL,1.0,18.0,13.0,134.0,168.0,4548.0,3.7,0.0,0.0,0.0,13.1,0.0,0.0,13.1,354.7,3.7
+AUG,,,,,,,,,,,,,,,,
+SEP,1.0,23.0,14.0,131.0,1820.0,4778.0,38.1,0.0,0.0,0.0,144.1,0.0,0.0,144.1,374.9,38.4
+TOTAL,2.0,41.0,27.0,265.0,1988.0,9326.0,21.3,0.0,0.0,0.0,157.2,0.0,0.0,157.2,729.6,21.5
